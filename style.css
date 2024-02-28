@@ -1,0 +1,25 @@
+body{
+    height: 100vh;
+    background-color: black;
+    background-image: url("wallpaper002.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    }
+    main{
+    
+    background-color: white;
+    max-width: 400px;
+    padding: 10px;
+    margin:auto;
+    border: 1px solid darkblue;
+    border-radius:  15px;
+    font-size: 1.3em;
+    font-style: italic;
+    
+    }
+    h2 img{
+    max-width: 400px;
+    
+    }
