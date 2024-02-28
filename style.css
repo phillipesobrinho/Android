@@ -20,7 +20,8 @@ body{
     
     }
     h2 img{
-    max-width: 400px;
-    margin:auto;
-    border-radius: 10%;
+    max-width: 370px;
+    margin:center;
+    border-radius: 15%;
+    padding: 10px 10px 10px 10px;
     }
